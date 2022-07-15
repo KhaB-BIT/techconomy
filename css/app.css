@@ -13,7 +13,7 @@ html {
 
 body {
   background-color: #001633 !important;
-  background-image: url("./img/techconomy.png");
+  background-image: url("/img/techconomy.png");
   background-position: center;
   background-repeat: repeat-y;
   background-size: contain;
@@ -985,7 +985,7 @@ header .banner .banner__btn-scroll-down i {
 .container-award {
   margin: auto;
   background-color: #001633;
-  background-image: url("./img/background award.png");
+  background-image: url("/img/background award.png");
   background-repeat: repeat-y;
   background-position: top center;
   background-size: contain;
